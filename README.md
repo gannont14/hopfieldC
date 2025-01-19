@@ -1,6 +1,6 @@
 # hopfieldC
 
-![[resources/example.gif]]
+![[example.gif]]
 
 This is a project based on a hopfield network that I learned about in one of my Artificial Intelligence classes.
 
