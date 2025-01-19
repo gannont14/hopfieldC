@@ -1,6 +1,6 @@
 # hopfieldC
 
-![[example.gif]]
+![](https://github.com/gannont14/hopfieldC/blob/main/example.gif)
 
 This is a project based on a hopfield network that I learned about in one of my Artificial Intelligence classes.
 
